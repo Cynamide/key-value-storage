@@ -1,2 +1,2 @@
-# web-server-
+# web-server
 Multithreaded Web Server written in C++
